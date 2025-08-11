@@ -42,5 +42,5 @@ The dataset includes:
 - Detected high-impact hubs for strategic planning.
 - Proposed operational changes to reduce costs and improve delivery times.
 
-📄 **[Full Report (PDF)](DTDC_Courier_Analytics.pdf)**  
+📄 **[Full Report (PDF)](https://github.com/thaisamador/DTDC-Courier-Analytics/blob/main/Report%20DTDC%20Courier%20Analytics.pdf)**  
 📊 **[Looker Studio Dashboard](https://lookerstudio.google.com/u/0/reporting/7f86f740-d542-47ac-b9fa-e6b5fe8ed65c/page/HRcTF)**
